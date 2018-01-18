@@ -1,4 +1,4 @@
-# Igang-Med-Github
+__*Igang med GitHub*__
 
 # Markdown Opgave <h1> 
 *Hvordan laver man et repository i github ?*
