@@ -10,6 +10,10 @@ __*Igang med GitHub*__
 * Clone eller download til korrekt mappe.
 * Husk push og pull for at synkronisere indholdet på siderne.
 
+[GitHub Logo](what.jpg)
+
+Format: ![Alt Text](what.jpg)
+
 *for mere info*
 http://github.com
 
